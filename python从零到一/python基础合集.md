@@ -43,7 +43,9 @@
 [Python 文件操作详解：写入文件的各种模式及测试案例](https://mp.weixin.qq.com/s/YSkIjmOfQnwfhmd7W6-orA)
 [Python编程的魅力：从新手到专家的旅程-40](https://mp.weixin.qq.com/s/KtHLjjopa-SQxhg4TQVzjg)
 [Python数据存储与重构：使用json.dump()和json.load()保存及读取用户生成的数据](https://mp.weixin.qq.com/s/k9nXeSf2J3oRMDSPFwzwLw)
+
 [Python测试函数实战](https://mp.weixin.qq.com/s/z-NJHJHPNBoDNTdk_uDllw)
+
 [Python测试类](https://mp.weixin.qq.com/s/7IYpwr2nPQhuXAbi92pjFQ)
 
 
