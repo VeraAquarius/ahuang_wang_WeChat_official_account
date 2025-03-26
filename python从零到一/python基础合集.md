@@ -4,7 +4,7 @@
 在本系列教程中，我们将从Python的基本概念开始，一步步引导你学习变量、控制结构、函数、面向对象编程等核心概念，并通过实际的编程示例来巩固你的学习成果。
 
 
-！[欢迎进入Python世界](https://mp.weixin.qq.com/s/H7uXLFKQ9mnoJ9WR_CLr2g)
+[欢迎进入Python世界](https://mp.weixin.qq.com/s/H7uXLFKQ9mnoJ9WR_CLr2g)
 [Python简介](https://mp.weixin.qq.com/s/MShOyZsTObEG6RtJJW4sag)
 [初识Python](https://mp.weixin.qq.com/s/DTkHNMCevwA77ji6XW9PIw)
 [Python个人介绍 - 简单数据类型](https://mp.weixin.qq.com/s/F8-woi29yocXdCREoB8-_g)
