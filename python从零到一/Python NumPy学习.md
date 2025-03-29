@@ -90,6 +90,9 @@
 
 [Numpy随机数生成：探索chisquare, gamma, uniform的多样世界](https://mp.weixin.qq.com/s/1oVqRGGV6NyvLkVfZiEVRg)
 
+[掌握 NumPy: concatenate 数据合并与 where 方法](https://mp.weixin.qq.com/s/CwI0BNJEmmDX-EyqXWL0ew)
+
+[NumPy合并技巧：where 方法的直接应用](https://mp.weixin.qq.com/s/qw3bIBDxp32MXs5_VpWY5g)
 
 
 

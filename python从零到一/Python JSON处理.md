@@ -10,6 +10,13 @@ Python，作为一门功能强大的编程语言，提供了对JSON的原生支�
 
 [深入Python JSON解析：提取多层级数据的技巧与实践](https://mp.weixin.qq.com/s/0ca7XOp_s9F8iszCHsaiaA)
 
+[深入了解JSON：数据格式与应用场景](https://mp.weixin.qq.com/s/JjfzLLiqmwJkhJdPqq6nKw)
+
+[从JSON到Python：json.loads()方法应用](https://mp.weixin.qq.com/s/znoHcOwptCxhPWVsCzTv_A)
+
+[数据序列化：使用json.dumps()生成JSON字符串](https://mp.weixin.qq.com/s/x6kPc3zQAuCklPky_UQo4w)
+
+[数据整合：使用Pandas处理JSON数据](https://mp.weixin.qq.com/s/znG_-z2GuHhQNbmZCT8fhA)
 
 
 加入我们的Python JSON教程集合，掌握数据交换的标准，让你在数据的海洋中游刃有余。无论你是Web开发者、数据分析师还是系统管理员，这套教程都将为你提供宝贵的指导。

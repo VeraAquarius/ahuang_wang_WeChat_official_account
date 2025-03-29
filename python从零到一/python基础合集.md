@@ -86,7 +86,26 @@
 
 [Python测试类](https://mp.weixin.qq.com/s/7IYpwr2nPQhuXAbi92pjFQ)
 
-
+[文本分析利器：Python split函数的多场景应用](https://mp.weixin.qq.com/s/Z7i1Bq2WZRbP8_N3gnhgcQ)
+[去除首尾空格：Python strip函数的高效应用](https://mp.weixin.qq.com/s/gvZ7VwPjQOU3OPfkm5zhGw)
+[Python字符串拼接：探索'+'的魔力](https://mp.weixin.qq.com/s/JCuxeXwnOaWsxXek5PQaFg)
+[Python字符串大师：解锁join方法的高效文本合并](https://mp.weixin.qq.com/s/Zpw8Rp4msSgRQGGgPL_QIw)
+[Python字符串操作：find方法详解与应用](https://mp.weixin.qq.com/s/SStWfpI1jrc6OoLHdGjmfg)
+[Python字符串操作：in子串定位的实用案例](https://mp.weixin.qq.com/s/R_ir5T3F_Mrk4BbuVlRM0w)
+[Python字符串定位：index方法的精确应用](https://mp.weixin.qq.com/s/Nd1fMur-uD-ptIb7dIzSnw)
+[计算子串出现次数：Python count方法的实用指南](https://mp.weixin.qq.com/s/vH3W1EW0Bma6uAznbxP4oA)
+[Python字符串替换：掌握replace方法的实用技巧](https://mp.weixin.qq.com/s/L37bo2Wrs_aKGizOR-WlOg)
+[定位字符串特征：Python startswith和endswith方法](https://mp.weixin.qq.com/s/IaNJdZYy41qB_T1ZOItpPA)
+[清除首尾空白：Python strip家族方法实战](https://mp.weixin.qq.com/s/xFIXIbHFWm8bw2nOSHOCDg)
+[Python字符串大小写转换：lower和upper方法全攻略](https://mp.weixin.qq.com/s/N8sOczvJ2WYjHmz1Bq6TUQ)
+[Python字符串对齐：掌握ljust和rjust方法](https://mp.weixin.qq.com/s/Yl-5M2Z6DmecMIMFrUNk0Q)
+[Python正则表达式：深入理解与应用指南](https://mp.weixin.qq.com/s/CUAVsxHtzPypzIHsVnhmuA)
+[Python正则表达式：拆分字符串与符号使用案例](https://mp.weixin.qq.com/s/oqBGyABDmYSBqAk5Br5EPA)
+[Python正则表达式优化：编译可重复使用的Regex对象](https://mp.weixin.qq.com/s/UMmvYiMpgkWC9PG6aR5slQ)
+[深入Python正则：掌握模式匹配](https://mp.weixin.qq.com/s/5q5mJOmYwg9upnhUlDPN0A)
+[Python正则表达式：match方法的高效文本匹配](https://mp.weixin.qq.com/s/YB93SCndFpNwf-w06rYk0Q)
+[深入Python正则表达式：掌握search方法](https://mp.weixin.qq.com/s/tqV3l16ex6wubgILk-sYtg)
+[Python正则表达式替换：掌握sub和subn方法](https://mp.weixin.qq.com/s/-me1IFjD1AFzkLk7u1EN_g)
 
 如果你已经准备好开始这段编程之旅，那么请继续阅读，让我们共同开启Python编程的大门。
 欢迎你的加入，让我们在代码的世界里一起成长！

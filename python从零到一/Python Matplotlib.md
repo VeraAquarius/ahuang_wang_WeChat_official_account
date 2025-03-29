@@ -60,6 +60,71 @@
 
 [彩色数据点：Plotly Express px.scatter()颜色映射全解析](https://mp.weixin.qq.com/s/rhBNKaj7B4TBqIXPqm46Pg)
 
+[Matplotlib绘图指南：探索pylab模式与Figure/subplot](https://mp.weixin.qq.com/s/qkAKaBJkZ494GcrBSEKFkg)
+
+[Matplotlib绘图：figsize参数的全方位应用](https://mp.weixin.qq.com/s/RKgo2yALBMCZqG112ghOAw)
+
+[Matplotlib绘图：如何对Pandas Series生成图表](https://mp.weixin.qq.com/s/_1oWxykqWNjSJ3CRu_jTWA)
+
+[Matplotlib绘图技巧：深入理解plt.gcf获取当前图形](https://mp.weixin.qq.com/s/uTpP2s6rf_tH6bHeH5isFA)
+
+[Matplotlib绘图进阶：掌握fig.add_subplot的高级用法](https://mp.weixin.qq.com/s/gref123oE9mGtFgopCFKag)
+
+[Matplotlib多图展示：plt.plot在subplot中的全方位应用](https://mp.weixin.qq.com/s/iOmRO1Rggmr2J0f1LawGTQ)
+
+[Matplotlib绘图：如何使用subplots_adjust调整图形间距](https://mp.weixin.qq.com/s/dMjDMeX6_7V1B6B0p_3XAA)
+
+[Matplotlib图表美化:如何绘制更具个性化的图表](https://mp.weixin.qq.com/s/0-otJg9Hi3JUEEh17HwCxQ)
+
+[Matplotlib绘图：如何使用不同线形绘制图形](https://mp.weixin.qq.com/s/yvPABJmmXnp8-InwWcCp3w)
+
+[Matplotlib绘图:如何精准控制X轴的显示](https://mp.weixin.qq.com/s/fXCkDY2k9UT_yiR4ePjYFQ)
+
+[Matplotlib绘图：如何旋转X轴字体](https://mp.weixin.qq.com/s/GwyQ-up1M7qakljshj0ejQ)
+
+[Matplotlib绘图：如何设置中文title](https://mp.weixin.qq.com/s/TytMUqB-7b3i8uZ5k6OV5g)
+
+[Matplotlib绘图:如何对X轴和Y轴分别设置标签](https://mp.weixin.qq.com/s/MhOaxmCeyPYK4wcFCUQw6Q)
+
+[Matplotlib绘图：如何给子图添加图例并调整图例位置](https://mp.weixin.qq.com/s/xytXruK-P98ATZoICf8E7w)
+
+[Matplotlib绘图：如何自定义图形的属性](https://mp.weixin.qq.com/s/V5vZ8id6fzC2viHL_0EY2A)
+
+[Matplotlib绘图:如何给图例添加文字注解](https://mp.weixin.qq.com/s/VnLzBawMllPdwmamiq45GA)
+
+[Matplotlib绘图：如何给图例添加箭头注解](https://mp.weixin.qq.com/s/dIX7KJXseD_M8vdRfV59PA)
+
+[Matplotlib绘图：如何在图例中添加矩形图案](https://mp.weixin.qq.com/s/f-RxHY8iPkA7OhnH1ws4Vw)
+
+[Matplotlib绘图：如何在图例中添加圆形图案](https://mp.weixin.qq.com/s/x4GLknmTESdvmXkWTxk-5A)
+
+[Matplotlib绘图：如何在图例中添加自定义多边形图案](https://mp.weixin.qq.com/s/Amejk2v7Uphzmli5MO_U8w)
+
+[Matplotlib绘图：如何在图例中添加多个自定义图案](https://mp.weixin.qq.com/s/kpPJO6UdrPG7JnaP_0ymFw)
+
+[Matplotlib绘图：如何保存图形](https://mp.weixin.qq.com/s/vISiVn6s56iciMRh-ohjMw)
+
+[Matplotlib绘图：如何保存高质量图形](https://mp.weixin.qq.com/s/g_4Yf7QCmgiDXa_GlCbhQQ)
+
+[Matplotlib绘图：如何设置全局绘图参数](https://mp.weixin.qq.com/s/OYO0VZ03-9CTJxo86laC5A)
+
+[Matplotlib绘图：如何设置全局绘图参数中的字体](https://mp.weixin.qq.com/s/950tJx7kLgjY2YxJmni-Tg)
+
+[Matplotlib绘图：如何对Pandas DataFrame生成图表](https://mp.weixin.qq.com/s/NgKen-Y9kp7Twb_U2HA-Sw)
+
+[Matplotlib绘图：如何使Y轴以对数刻度显示](https://mp.weixin.qq.com/s/dJQIprfaG0sbk48dj56o-Q)
+
+[Matplotlib绘图：如何令X轴与Pandas 中的index一致](https://mp.weixin.qq.com/s/RJDL6G-wHvYpa5TD36GY1A)
+
+[Matplotlib绘图：如何根据Pandas中的多个Df绘制图形](https://mp.weixin.qq.com/s/-Y7tDpuzC5kCHXbfCHPhRA)
+
+[Matplotlib绘图：如何对Pandas Df中的多个Column共享X/Y轴](https://mp.weixin.qq.com/s/Q-Rb2iJEJmdefpPqk9rdhA)
+
+[Matplotlib绘图：如何根据Pandas df 绘制横向柱状图](https://mp.weixin.qq.com/s/GFDP7t7prBoehLKgmtBpvw)
+
+[Matplotlib绘图：如何根据Pandas df 绘制柱状图](https://mp.weixin.qq.com/s/X_CW5ybXcgP1KbXl5ZVXkg)
+
+[Matplotlib绘图：如何根据Pandas df 绘制直方图](https://mp.weixin.qq.com/s/oLwGIroGDU1ud-iyRlc7lg)
 
 
 加入我们的Python Matplotlib教程集合，掌握数据可视化的艺术，让你的数据讲述更生动的故事。
