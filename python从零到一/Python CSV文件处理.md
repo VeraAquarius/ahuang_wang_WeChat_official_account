@@ -31,6 +31,24 @@ Python，以其强大的数据处理能力，成为处理CSV文件的理想选�
 
 [数据可视化新技能：用Python和JSON绘制全球地震散点图](https://mp.weixin.qq.com/s/rcC_z0JvQr_wX2i8myrH1Q)
 
+[基础文件操作：使用open()打开CSV文件](https://mp.weixin.qq.com/s/9iqoQgcHVr-Xd7sUS9VPSA)
+
+[优化文件I/O：掌握open()中的buffering和errors](https://mp.weixin.qq.com/s/czqKjDkYnL1OWKLl8YMRPQ)
+
+[Python文件处理：open()中的newline和closefd](https://mp.weixin.qq.com/s/xNWT4CDs3_VtCrs-I3Whrg)
+
+[优化CSV文件处理：使用csv.reader()](https://mp.weixin.qq.com/s/GxbnVPQhae08Ath7QMjUAQ)
+
+[自定义CSV格式：使用csv.reader()的dialect参数](https://mp.weixin.qq.com/s/wjd7tL2B4QLcUl3tvOSJRw)
+
+[优化CSV文件处理：使用delimiter参数](https://mp.weixin.qq.com/s/gpJPcGZUHWQ1SL92lM44FA)
+
+[数据导入技巧：csv.reader()的引用字符处理](https://mp.weixin.qq.com/s/gMWYWpDxuZAPc5CX5LZ-zA)
+
+[忽略初始空格：csv.reader()中的skipinitialspace应用](https://mp.weixin.qq.com/s/LZzyuTqq1bkPfYnu1iudlg)
+
+[字符转义处理：csv.reader()中的escapechar应用](https://mp.weixin.qq.com/s/uPh2T7IlXZLz5t250K3skA)
+
 
 
 加入我们的Python CSV教程集合，解锁数据的力量，让你在数据的海洋中游刃有余。
